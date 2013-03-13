@@ -1,5 +1,6 @@
 require 'tweetstream/configuration'
 require 'tweetstream/client'
+require 'tweetstream/site_stream_client'
 require 'tweetstream/daemon'
 
 module TweetStream
